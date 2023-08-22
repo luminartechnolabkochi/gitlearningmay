@@ -5,3 +5,7 @@ good afternoon all
 good evening all
 
 good night
+
+gm
+gf
+this is a greeting file created by so and so user
